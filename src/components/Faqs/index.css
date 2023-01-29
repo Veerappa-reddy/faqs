@@ -1,0 +1,22 @@
+.app-container {
+  background-color: #e4e7eb;
+  height: 100vh;
+  padding: 30px;
+}
+.faqs-container {
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+}
+.heading {
+  font-size: 40px;
+  color: #cb8805;
+  font-family: 'Roboto';
+  text-align: center;
+}
+.faqs-item-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+}
